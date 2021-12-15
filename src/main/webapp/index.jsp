@@ -6,13 +6,13 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Demo Project from Devops8-9AM BATCH</h1>
+        <h1>Demo Project from babu-tech solutions</h1>
         <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
         <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
         <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
 
 
-<table width="50%" bgcolor="green" align="center" border="2">
+<table width="50%" bgcolor="purple" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
