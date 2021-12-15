@@ -6,7 +6,7 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Demo Project from babu-tech solutions</h1>
+        <h1>Demo Project from softwear-tech</h1>
         <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
         <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
         <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
