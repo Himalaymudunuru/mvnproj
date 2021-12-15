@@ -7,12 +7,12 @@
     </head>
     <body>
         <h1>Demo Project from softwear-tech</h1>
-        <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
-        <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
-        <h1>Nice day DEVOPS8-9AM BATCH.....</h1>
+        <h1>Nice day techbatch8-9.....</h1>
+        <h1>Nice day techbatch8-9.....</h1>
+        <h1>Nice day techbatch8-9.....</h1>
 
 
-<table width="50%" bgcolor="purple" align="center" border="2">
+<table width="50%" bgcolor="black" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
