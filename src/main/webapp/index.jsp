@@ -13,7 +13,7 @@
         <h1>Nice day techbatch8-9.....</h1>
 
 
-<table width="1%" bgcolor="brown" align="center" border="2">
+<table width="5%" bgcolor="brown" align="center" border="2">
 
 
 <tr>
