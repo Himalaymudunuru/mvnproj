@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>softwear-tech</groupId>
     <artifactId>ansible</artifactId>
-    <version>1.05</version>
+    <version>1.06</version>
     <packaging>war</packaging>
     <name>mavenaproj</name>
     <properties>
