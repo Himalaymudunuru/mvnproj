@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>babu</groupId>
     <artifactId>ansible123456</artifactId>
-    <version>1.07</version>
+    <version>1.02</version>
     <packaging>war</packaging>
     <name>Maven</name>
     <properties>
