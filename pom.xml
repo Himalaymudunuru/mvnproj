@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>honey</groupId>
     <artifactId>ansible</artifactId>
-    <version>1.012</version>
+    <version>1.03</version>
     <packaging>war</packaging>
     <name>mavenaproj</name>
     <properties>

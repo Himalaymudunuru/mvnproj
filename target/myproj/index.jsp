@@ -1,4 +1,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -6,16 +7,14 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Demo Project from Devops</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
+        <h1>Demo Project from softwear-tech</h1>
+        <h1>Nice day techbatch8-9.....</h1>
+        <h1>Nice day techbatch8-9.....</h1>
+        <h1>Nice day techbatch8-9.....</h1>
 
 
-<table width="50%" bgcolor="pink" align="center" border="2">
+<table width="40%" bgcolor="blue" align="center" border="2">
+
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
