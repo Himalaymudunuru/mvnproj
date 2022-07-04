@@ -1,4 +1,4 @@
-FROM tomcat
+FROM tomcat:8.0
 MAINTAINER himalay
 #ARG CONT_IMG_VER
 WORKDIR /usr/local/tomcat
