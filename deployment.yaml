@@ -1,16 +1,19 @@
-apiVersion: extensions/v1beta1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
-    name: sample-deploy
+  name: sample-deploy
 spec:
-    replicas: 1
-    template:
-      metadata:
-       labels:
-         app: sample-ctr
-      spec:
-         containers:
-         - name: sample-pod
-           image: 
-           ports:
-           - containerPort: 8080
+  replicas: 1
+    selector:
+      matchLabels:
+        app: sample-java
+  template:
+    metadata:
+      labels:
+        app: sample-java
+    spec:
+      containers:
+      - name: sample-pod
+        image: docker.io/hima12345/test:latest
+        ports:
+        - containerPort: 8080
