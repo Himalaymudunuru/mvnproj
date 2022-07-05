@@ -7,10 +7,10 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Demo Project from softwear-tech</h1>
-        <h1>Nice day techbatch8-9.....</h1>
-        <h1>Nice day techbatch8-9.....</h1>
-        <h1>Nice day techbatch8-9.....</h1>
+        <h1>Demo Project from himalay-tech</h1>
+        <h1>This is my first project.....</h1>
+        <h1>This is java based project.....</h1>
+        <h1>This microserive project.....</h1>
 
 
 <table width="40%" bgcolor="blue" align="center" border="2">
